@@ -21,6 +21,7 @@ This project presents a sales analysis dashboard built using Microsoft Excel. It
   - Region
   - Sales
 
+## Project Structure
  The Excel file contains:
 - *Raw_Data sheet* → original dataset with added columns (Month, Sales Level)  
 - *Analysis sheet* → calculations using formulas (IF, COUNTIF, SUMIF)  
@@ -80,4 +81,3 @@ This project demonstrates the use of Excel for data analysis by combining data c
 ---
 ---
 
-## Project Structure
