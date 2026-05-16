@@ -71,7 +71,7 @@ This project presents a sales analysis dashboard built using Microsoft Excel. It
 
 ## Dashboard Preview
 
-![Dashboard](03-Images/Dashboard Preview.png)
+![Dashboard](03-Images/DashboardPreview.png)
 
 ---
 
